@@ -1,4 +1,4 @@
-CODING:
+#CODING:
 #include<LiquidCrystal.h>
 LiquidCrystal lcd(7, 6, 5, 4, 3, 2);
 int Smoke = 0;
